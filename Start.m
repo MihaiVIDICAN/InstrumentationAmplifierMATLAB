@@ -1,0 +1,13 @@
+close all;
+clear all; 
+A3=15; 
+A1=5;
+A2=10;
+R=5;
+R1=2;
+R2=4;
+R3=6; 
+f=2.5;
+N=4;
+s=1;
+interfata(A1,A2,A3,R,R1,R2,R3,f,N,s);
